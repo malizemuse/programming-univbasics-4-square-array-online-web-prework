@@ -27,8 +27,11 @@ while counter < array.length do
   new_array << new_element
 end
 
-=begin
+
 p new_array
+
+=begin
+
 =end
 
 
