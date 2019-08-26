@@ -14,3 +14,8 @@ end
 
 # Scrap
 
+array = [1,2,3]
+
+new_array = square_array(array)
+
+p new_array
