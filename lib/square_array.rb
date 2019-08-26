@@ -13,27 +13,6 @@ def square_array(array)
 
 end
 
-# Scrap
 
-array = [1,2,3]
-new_array = []
-
-counter = 0 
-
-p array
-p new_array
-
-while counter < array.length do
-  new_element = array[counter]*array[counter]
-  new_array << new_element
-  counter += 1
-end
-
-p array
-p new_array
-
-=begin
-
-=end
 
 
