@@ -23,3 +23,7 @@ while array[counter] < array.length do
   new_element = array[counter]*array[counter]
   new_array << new_element
 end
+
+p new_array
+
+
