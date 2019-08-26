@@ -15,6 +15,7 @@ end
 
 # Scrap Code 
 
+array = [1,2,3]
 
 
 
