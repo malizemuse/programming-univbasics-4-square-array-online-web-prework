@@ -13,10 +13,4 @@ def square_array(array)
 
 end
 
-# Scrap Code 
-
-array = [1,2,3]
-
-p square_array(array)
-
 
