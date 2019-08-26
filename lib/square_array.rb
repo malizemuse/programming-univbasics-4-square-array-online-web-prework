@@ -27,7 +27,7 @@ while counter < array.length do
   new_array << new_element
 end
 
-
+p array
 p new_array
 
 =begin
