@@ -16,6 +16,8 @@ end
 
 array = [1,2,3]
 
+p array
+
 =begin
 counter = 0 
 new_array = []
