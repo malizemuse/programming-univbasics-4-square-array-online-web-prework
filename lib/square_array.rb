@@ -16,6 +16,7 @@ end
 
 array = [1,2,3]
 
+=begin
 counter = 0 
 new_array = []
 
@@ -25,5 +26,6 @@ while array[counter] < array.length do
 end
 
 p new_array
+=end
 
 
