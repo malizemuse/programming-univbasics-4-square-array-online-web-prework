@@ -17,5 +17,6 @@ end
 
 array = [1,2,3]
 
+p square_array(array)
 
 
