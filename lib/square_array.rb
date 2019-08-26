@@ -15,20 +15,19 @@ end
 # Scrap
 
 array = [1,2,3]
+new_array = []
 
 counter = 0 
-
-new_array = []
 
 p array
 p new_array
 
-=begin
-while array[counter] < array.length do
+while counter < array.length do
   new_element = array[counter]*array[counter]
   new_array << new_element
 end
 
+=begin
 p new_array
 =end
 
