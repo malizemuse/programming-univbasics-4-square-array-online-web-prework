@@ -13,6 +13,8 @@ def square_array(array)
 
 end
 
+# Scrap Code 
+
 
 
 
